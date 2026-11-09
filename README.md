@@ -108,7 +108,7 @@
 <div align="center">
 
   <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayankrmondal2003-rgb&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8" alt="Ayan's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ayankrmondal2003-rgb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="Ayan's GitHub Stats" />
 
   <br/><br/>
 
@@ -118,11 +118,9 @@
   <br/><br/>
 
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayankrmondal2003-rgb&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayankrmondal2003-rgb&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
 
 </div>
-
----
 
 ### 🤝 Connect & Collaborate
 
