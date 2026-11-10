@@ -107,18 +107,14 @@
 
 <div align="center">
 
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-stats-extended.vercel.app/api?username=ayankrmondal2003-rgb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="Ayan's GitHub Stats" />
+  <!-- Line 1: Overall Stats & Top Languages side-by-side -->
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=ayankrmondal2003-rgb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="Ayan's GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayankrmondal2003-rgb&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
 
-  <br/><br/>
+  <br/>
 
-  <!-- Active GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=ayankrmondal2003-rgb&theme=tokyonight&hide_border=true&border_radius=8" alt="Ayan's GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- Most Used Languages -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayankrmondal2003-rgb&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+  <!-- Line 2: Active GitHub Streak -->
+  <img height="180" src="https://streak-stats.demolab.com/?user=ayankrmondal2003-rgb&theme=tokyonight&hide_border=true&border_radius=8" alt="Ayan's GitHub Streak" />
 
 </div>
 
