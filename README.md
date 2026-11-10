@@ -107,15 +107,15 @@
 
 <div align="center">
 
-  <!-- Line 1: Stats & Streak (Twin Equal-Sized Boxes with Gap) -->
+  <!-- Line 1: Stats & Expanded Languages (Equal Width & Height with Gap) -->
   <img width="48%" src="https://github-stats-extended.vercel.app/api?username=ayankrmondal2003-rgb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img width="48%" src="https://streak-stats.demolab.com/?user=ayankrmondal2003-rgb&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayankrmondal2003-rgb&layout=compact&card_width=467&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
 
   <br/><br/>
 
-  <!-- Line 2: Top Languages (Centered below) -->
-  <img width="52%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayankrmondal2003-rgb&layout=compact&card_width=467&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+  <!-- Line 2: Streak (Centered below) -->
+  <img width="52%" src="https://streak-stats.demolab.com/?user=ayankrmondal2003-rgb&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
 
 </div>
 
