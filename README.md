@@ -107,6 +107,13 @@
 
 <div align="center">
 
+  <!-- Live Total Repositories Badge (Auto-updates with GitHub API) -->
+  <p align="center">
+    <a href="https://github.com/ayankrmondal2003-rgb?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fayankrmondal2003-rgb&query=public_repos&label=Total%20Repositories&color=58a6ff&logo=github&style=for-the-badge" alt="Total Repositories" />
+    </a>
+  </p>
+
   <!-- Line 1: Stats & Expanded Languages (Equal Width & Height with Gap) -->
   <img width="48%" src="https://github-stats-extended.vercel.app/api?username=ayankrmondal2003-rgb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
   &nbsp;&nbsp;
