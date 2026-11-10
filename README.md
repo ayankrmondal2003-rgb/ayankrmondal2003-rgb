@@ -129,11 +129,13 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-ayankumar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-brightgreen?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ayan-kumar-mondal-931686392" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ayankr.mondal2003@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/ayankrmondal2003-rgb">Ayan Kumar Mondal</a></i>
+  <a href="https://portfolio-ayankumar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-brightgreen?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ayan-kumar-mondal-931686392" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayankr.mondal2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
