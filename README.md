@@ -117,7 +117,7 @@
   <!-- Line 1: Stats & Expanded Languages (Equal Width & Height with Gap) -->
   <img width="48%" src="https://github-stats-extended.vercel.app/api?username=ayankrmondal2003-rgb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayankrmondal2003-rgb&layout=compact&card_width=467&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayankrmondal2003-rgb&layout=compact&card_width=455&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
 
   <br/><br/>
 
