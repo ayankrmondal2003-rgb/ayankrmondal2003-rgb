@@ -17,7 +17,7 @@
     <a href="https://linkedin.com/in/ayan-kumar-mondal-931686392" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:ayankr.mondal2003@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayankr.mondal2003@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/ayankrmondal2003-rgb?tab=followers">
@@ -107,14 +107,15 @@
 
 <div align="center">
 
-  <!-- Line 1: Overall Stats & Top Languages side-by-side -->
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=ayankrmondal2003-rgb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="Ayan's GitHub Stats" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayankrmondal2003-rgb&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+  <!-- Line 1: Stats & Streak (Twin Equal-Sized Boxes with Gap) -->
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=ayankrmondal2003-rgb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img width="48%" src="https://streak-stats.demolab.com/?user=ayankrmondal2003-rgb&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Line 2: Active GitHub Streak -->
-  <img height="180" src="https://streak-stats.demolab.com/?user=ayankrmondal2003-rgb&theme=tokyonight&hide_border=true&border_radius=8" alt="Ayan's GitHub Streak" />
+  <!-- Line 2: Top Languages (Centered below) -->
+  <img width="52%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayankrmondal2003-rgb&layout=compact&card_width=467&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
 
 </div>
 
