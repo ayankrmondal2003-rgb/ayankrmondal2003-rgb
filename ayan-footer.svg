@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="154" viewBox="0 0 1200 154" role="img" aria-label="Ayan Kumar Mondal profile footer: Keep building what matters">
+ <title>Keep building what matters.</title>
+ <defs>
+   <linearGradient id="ayan-foot-bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10070C"/><stop offset=".55" stop-color="#190B12"/><stop offset="1" stop-color="#451126"/></linearGradient>
+   <linearGradient id="ayan-foot-stroke" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C77B9B" stop-opacity=".14"/><stop offset=".5" stop-color="#E5B5C7" stop-opacity=".95"/><stop offset="1" stop-color="#C77B9B" stop-opacity=".12"/></linearGradient>
+   <pattern id="ayan-foot-dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#E5B5C7" opacity=".12"/></pattern>
+ </defs>
+ <rect width="1200" height="154" rx="22" fill="url(#ayan-foot-bg)"/>
+ <rect width="1200" height="154" rx="22" fill="url(#ayan-foot-dots)"/>
+ <rect x="1" y="1" width="1198" height="152" rx="21" stroke="url(#ayan-foot-stroke)" fill="none" opacity=".7"/>
+ <path d="M50 28 V126 M1150 28 V126" stroke="#C77B9B" stroke-width="1" opacity=".45"/>
+ <text x="600" y="63" text-anchor="middle" fill="#F8F0F3" font-size="31" letter-spacing="1.6" font-family="'Segoe UI',Arial,sans-serif" font-weight="800">KEEP BUILDING WHAT MATTERS.</text>
+ <text x="600" y="97" text-anchor="middle" fill="#E5B5C7" font-size="15" letter-spacing="3.8" font-family="'Segoe UI',Arial,sans-serif">AYAN KUMAR MONDAL  ·  TEAM 4 LOOPS</text>
+ <path d="M455 115 H745" stroke="#701A3D" stroke-width="2"/>
+ <path d="M455 115 H525" stroke="#E5B5C7" stroke-width="2"><animate attributeName="d" values="M455 115 H525;M675 115 H745;M455 115 H525" dur="7s" repeatCount="indefinite"/></path>
+</svg>
